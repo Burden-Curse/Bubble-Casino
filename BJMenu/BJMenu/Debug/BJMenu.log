@@ -1,0 +1,19 @@
+﻿  BJMenu.cpp
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(621): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(104): warning C4101: 'DealerCard2': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(102): warning C4101: 'PResults': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(101): warning C4101: 'DResults': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(105): warning C4101: 'DealerCard3': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(99): warning C4101: 'card': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(109): warning C4101: 'PlayerCard4': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(108): warning C4101: 'PlayerCard3': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(113): warning C4101: 'Phit3': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(112): warning C4101: 'Phit2': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(107): warning C4101: 'PlayerCard2': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(106): warning C4101: 'PlayerCard1': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(110): warning C4101: 'PlayerCard5': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(114): warning C4101: 'PlayerHand': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(100): warning C4101: 'n': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(111): warning C4101: 'Phit': unreferenced local variable
+c:\users\jaque\onedrive\desktop\cis 7 project\bjmenu\bjmenu\bjmenu.cpp(103): warning C4101: 'DealerCard1': unreferenced local variable
+  BJMenu.vcxproj -> C:\Users\jaque\OneDrive\Desktop\CIS 7 PROJECT\BJMenu\Debug\BJMenu.exe
