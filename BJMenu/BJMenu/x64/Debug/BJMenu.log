@@ -1,0 +1,19 @@
+﻿  BJMenu.cpp
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(622): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(106): warning C4101: 'DealerCard2': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(104): warning C4101: 'PResults': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(103): warning C4101: 'DResults': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(107): warning C4101: 'DealerCard3': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(101): warning C4101: 'card': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(111): warning C4101: 'PlayerCard4': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(110): warning C4101: 'PlayerCard3': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(115): warning C4101: 'Phit3': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(114): warning C4101: 'Phit2': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(109): warning C4101: 'PlayerCard2': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(108): warning C4101: 'PlayerCard1': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(112): warning C4101: 'PlayerCard5': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(116): warning C4101: 'PlayerHand': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(102): warning C4101: 'n': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(113): warning C4101: 'Phit': unreferenced local variable
+c:\users\kenne\onedrive\desktop\bubble casino\bjmenu\bjmenu\bjmenu.cpp(105): warning C4101: 'DealerCard1': unreferenced local variable
+  BJMenu.vcxproj -> C:\Users\kenne\OneDrive\Desktop\Bubble Casino\BJMenu\x64\Debug\BJMenu.exe
